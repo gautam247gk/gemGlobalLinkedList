@@ -55,10 +55,14 @@ function sortedAndMerged(arr1) {
 }
 
 //driver code with example from given question
-let arr = [
+let eg1 = [
   [1, 4, 5],
   [1, 3, 4],
   [2, 6],
 ];
 
-sortedAndMerged(arr);
+let eg2 = [];
+
+let eg3 = [[]];
+
+sortedAndMerged(eg1);
