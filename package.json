@@ -1,0 +1,16 @@
+{
+  "name": "interviews",
+  "version": "1.0.0",
+  "description": "",
+  "main": "gem.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node gem.js"
+  },
+  "engines": {
+    "node": ">=14.19.2"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
